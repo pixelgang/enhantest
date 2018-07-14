@@ -21,6 +21,7 @@
 	<plugin name="cordova-plugin-camera" />
 	<plugin name="cordova-plugin-media" />
 	<plugin name="cordova-plugin-whitelist" />
+	<plugin name="enhance-cordova-connector" />
 
 
 	<engine name="ios" />
